@@ -38,5 +38,5 @@ Please consider citing our paper if the data is helpful in your research and dev
   author={Huang, Weijun and Huang, Jia and Wang, Guowei and Lu, Hongzhou and He, Min and Wang, Wenjin},
   booktitle={2023 IEEE International Conference on Acoustics, Speech and Signal Processing},
   year={2023}
-
+}
 ```
