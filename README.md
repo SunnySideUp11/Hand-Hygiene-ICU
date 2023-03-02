@@ -24,9 +24,7 @@ The data structure would like:
 
 ## Citation
 
-
-
-Please consider citing our paper if the data is helpful in your research and development.
+P
 
 ```
 @inproceedings{
