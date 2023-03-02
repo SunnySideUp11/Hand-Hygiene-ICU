@@ -1,10 +1,6 @@
 # Exploiting CCTV Cameras For Hand Hygiene Recognition In ICU (ICASSP 2023)
 
----
-
 ## Datasets
-
----
 
 - Hand Hygiene Video Link： [video - Google 云端硬盘](https://drive.google.com/drive/folders/1a6eS0GsBwqGtv3HxakSHz3il25d9EyGw?usp=share_link)
 
@@ -28,7 +24,7 @@ The data structure would like:
 
 ## Citation
 
----
+
 
 Please consider citing our paper if the data is helpful in your research and development.
 
